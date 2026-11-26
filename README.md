@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of huseyinfiliz/theme-transitions.** Not for installation: use [Packagist](https://packagist.org/packages/huseyinfiliz/theme-transitions) or the [upstream repository](https://github.com/huseyinfiliz/theme-transitions).
 
-**1** versions archived · Latest: [`1.0`](https://github.com/flarchive/huseyinfiliz-theme-transitions/tree/archive/v1.0) · License: `MIT` · Flarum: `^2.0`
+**0** versions archived · Latest: [`1.0`](https://github.com/flarchive/huseyinfiliz-theme-transitions/tree/archive/v1.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.0` | 2026-11-24 | `^2.0` | [Browse](https://github.com/flarchive/huseyinfiliz-theme-transitions/tree/archive/v1.0) |
+| — | — | — | — |
 
 Catalog entry: [packages/huseyinfiliz-theme-transitions.json](https://github.com/flarchive/archive-index/blob/main/packages/huseyinfiliz-theme-transitions.json)
 
